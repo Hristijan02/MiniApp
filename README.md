@@ -6,9 +6,9 @@
 
 <img src="https://github.com/Hristijan02/MiniApp/blob/main/images/newCard.jpg" alt="MiniApp Screenshot" width="200"> 
 
-**When you click on the button, it will open a newFragment. Here, you can optionally take a picture, enter a title and description, and save the card. Note that the card cannot be saved without a title and/or description.**
+**When you click on the button, it will open a NewFragment. Here, you can optionally take a picture, enter a title and description, and save the card. Note that the card cannot be saved without a title and/or description.**
 
-<img src="https://github.com/Hristijan02/MiniApp/blob/main/images/newCard.jpg" alt="MiniApp Screenshot" width="200"> 
+<img src="https://github.com/Hristijan02/MiniApp/blob/main/images/newCardError1.jpg" alt="MiniApp Screenshot" width="200"> 
 
 <img src="https://github.com/Hristijan02/MiniApp/blob/main/images/newCardImported.jpg" alt="MiniApp Screenshot" width="200"> 
 
