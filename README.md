@@ -18,6 +18,6 @@
 
 **Clicking on the card will open the DetailsFragment, where you can delete your card or share it. When you click on share, it will automatically create an email with the title as the subject, description, and timestamp as the body, and attach the image to the message.**
 
-<img src="https://github.com/Hristijan02/MiniApp/blob/main/images/clickedOnShare.jpg" alt="MiniApp Screenshot" width="200"> 
+<img src="https://github.com/Hristijan02/MiniApp/blob/main/images/clickedOnCard.jpg" alt="MiniApp Screenshot" width="200"> 
 
 <img src="https://github.com/Hristijan02/MiniApp/blob/main/images/clickedOnShare.jpg" alt="MiniApp Screenshot" width="200">
